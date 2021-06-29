@@ -1,0 +1,187 @@
+@media all and (max-width: 990px) {
+	.logo-area img {
+		height: 142px;
+		left:1%;
+	}
+	.menu-area ul li {
+		padding: 25px 6px;
+	}
+	.menu-area ul li a {
+		font-size: 12px;
+	}
+	.hero-content {
+		margin: 96px 0px 80px 25px;
+	}
+	.hero-content span {
+		font-size: 19px;
+	}
+	.hero-content p a {
+		font-size: 19px;
+	}
+	.hero-content span a {
+		font-size: 19px;
+	}
+	.hero-content p {
+		font-size: 19px;
+	}
+	/*portfolio area start*/
+
+	.all-portfolio {
+		display: block;;
+	}
+	.our-team p {
+		text-align: center;
+		margin-bottom: 14px;
+	}
+	.single-portfolio {
+		margin: 0px 17px;
+		
+	}
+	.single-portfolio a img {
+		width: 100%;
+		height: 100px;
+	}
+	.portfolio-title {
+		margin: 41px 0px 12px 0px;
+	}
+	/*condition area start*/
+
+	.box {
+		overflow: hidden;
+		width: 570px;
+		height: 382px;
+	}
+	.single-condition ul li a {
+		font-size: 14px;
+	}
+	.single-condition a img {
+		height: 60px;
+	}
+	.treatment-image img {
+		height: 202px;
+		width: 100%;
+	}
+	.treatment-details p {
+		font-size: 14px;
+		margin: 7px 0px;
+	}
+	/*footer area start*/
+	.footer-logo img {
+		width: 82%;
+		height: 110px;
+	}
+	.footer-contact ul li a {
+		font-size: 14px;
+	}
+	.footer-contact ul li a i {
+		font-size: 27px;
+	}
+	.footer-contact span {
+		font-size: 15px;
+	}
+	.copyright p {
+		font-size: 14px;
+	}
+}
+@media all and (max-width: 768px) {
+	.logo-area img {
+		height: 96px;
+	}
+	.menu-area ul li a {
+		font-size: 10px;
+	}
+	.menu-area ul li {
+		padding: 18px 3px;
+	}
+	.menu-area ul li a.button {
+		padding: 3px 8px;
+	}
+	.menu-area ul ul li a {
+		font-size: 12px;
+	}
+	.menu-area ul ul {
+		min-width: 132px;
+	}
+	.hero-content span {
+		font-size: 15px;
+	}
+	.hero-content p a {
+		font-size: 15px;
+	}
+	.hero-content span a {
+		font-size: 15px;
+	}
+	.hero-content p {
+		font-size: 15px;
+	}
+	.portfolio-title {
+		font-size: 13px;
+	}
+	.portfolio-title p a {
+		font-size: 13px;
+	}
+	.all-single-portfolio {
+		display: block;
+	}
+	.single-portfolio {
+		margin: 0px 85px 32px 85px;
+	}
+	.single-portfolio a img {
+		height: 134px;
+	}
+	/*condition area start*/
+
+	.box {
+		overflow: hidden;
+		width: 463px;
+		height: 307px;
+	}
+	.Condition-head {
+		font-size: 14px;
+		margin: 12px 0px;
+	}
+	.single-condition a img {
+		height: 52px;
+		margin-bottom: 9px;
+	}
+	.single-condition h3 a {
+		font-size: 17px;
+		margin-bottom: 7px;
+	}
+	.single-condition ul li a {
+		font-size: 14px;
+	}
+	.single-condition ul li {
+		line-height: 1.5;
+	}
+	/*treatment area start*/
+
+
+	.treatment-image img {
+		height: 144px;
+		width: 96%;
+	}
+	.treatment-details h3 a {
+		margin-left: 9px;
+		font-size: 17px;
+	}
+	.treatment-details p {
+		font-size: 10px;
+	}
+	/*footer area start*/
+
+	.footer {
+		display: block;
+	}
+	.footer-logo img {
+		width: 52%;
+		height: 190px;
+	}
+	.footer-logo a {
+		margin-left: 0px;
+	}
+	.footer-contact {
+		margin-left: 11px;
+	}
+
+}
